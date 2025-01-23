@@ -20,6 +20,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos que estou des
 
 ### **Contato**  
 📧 E-mail: vitor8989@hotmail.com 
-🔗 LinkedIn: [[Seu perfil](https://www.linkedin.com/in/araujaum/)]  
+🔗 LinkedIn: [[João Vitor](https://www.linkedin.com/in/araujaum/)]  
 
 Vamos codar juntos! 😊 
