@@ -1,25 +1,27 @@
-# Olá, eu sou João Vitor! 👋  
+# Olá, eu sou João Vitor! 👋
 
-👨‍💻 **Desenvolvedor Backend em formação** | 🚀 **Aprendendo Go (Golang)**  
+👨‍💻 **Desenvolvedor Front-end** | 🚀 **Explorando o Mundo do Frontend**
 
-Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos que estou desenvolvendo enquanto aprendo **Go (Golang)** e outras tecnologias relacionadas ao desenvolvimento de software. Estou em transição de carreira para a área de tecnologia e focado em me tornar um desenvolvedor backend competente.  
+Bem-vindo ao meu perfil do GitHub! Estou em transição de carreira para o desenvolvimento de **Front-end** e atualmente estou aprendendo as tecnologias que são fundamentais para criar aplicações web incríveis. Ao longo dessa jornada, tenho desenvolvido projetos práticos e estou sempre buscando melhorar minhas habilidades.
 
 ### **Sobre mim**   
-- 📚 Estudando **Go (Golang)** e construindo projetos práticos;  
-- 🛠️ Familiarizado com conceitos de **APIs RESTful**, **Git**, **SQL** e **Docker**;  
-- 🌱 Sempre aprendendo e buscando novos desafios.  
+- 📚 Estudando **HTML**, **CSS**, **JavaScript**, e frameworks como **Angular** e etc...;
+- 🛠️ Focado em construir interfaces de usuário interativas, responsivas e acessíveis;
+- 🌱 Sempre buscando novos desafios e aprendendo as melhores práticas do desenvolvimento web.
+
+### **Projetos em andamento**
+- **Gerador de Frases Motivacionais**: Um projeto de frontend para gerar citações motivacionais aleatórias, com funcionalidades de alternância entre temas claro e escuro, utilizando **API** e **JavaScript**.
 
 ### **Cursos em andamento**  
-- **Desenvolvimento Web com Go - Do Zero ao Deploy** (Udemy);  
-- **Aprenda Golang do Zero! Desenvolva uma APLICAÇÃO COMPLETA!** (Udemy).  
+- **Desenvolvimento Web Completo - HTML, CSS, JavaScript** (Udemy);  
 
 ### **Tecnologias que estou aprendendo**  
-- **Linguagens:** Go (Golang);  
-- **Ferramentas:** Git, Docker, SQL;  
-- **Conceitos:** APIs RESTful, concorrência, boas práticas de desenvolvimento.  
+- **Frontend:** HTML, CSS, JavaScript, Angular, SASS, Bootstrap;
+- **Ferramentas:** Git, VSCode, Figma, Webpack;
+- **Conceitos:** Responsividade, acessibilidade, design de interfaces, integração com APIs.
 
 ### **Contato**  
-📧 E-mail: vitor8989@hotmail.com 
+📧 E-mail: vitor8989@hotmail.com  
 🔗 LinkedIn: [[João Vitor](https://www.linkedin.com/in/araujaum/)]  
 
-Vamos codar juntos! 😊 
+Vamos codar juntos! 😊
